@@ -1,8 +1,8 @@
 package chat;
 
-import cse332.interfaces.misc.Dictionary;
-import cse332.types.AlphabeticString;
-import cse332.types.NGram;
+import process.interfaces.misc.Dictionary;
+import process.types.AlphabeticString;
+import process.types.NGram;
 import javafx.embed.swing.JFXPanel;
 import p2.clients.NGramTester;
 import p2.wordsuggestor.WordSuggestor;

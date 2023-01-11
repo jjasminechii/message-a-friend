@@ -1,7 +1,7 @@
 package p2.wordcorrector;
 
-import cse332.interfaces.worklists.FIFOWorkList;
-import cse332.types.AlphabeticString;
+import process.interfaces.worklists.FIFOWorkList;
+import process.types.AlphabeticString;
 import datastructures.worklists.ListFIFOQueue;
 import p2.sorts.QuickSort;
 import p2.wordsuggestor.WordSuggestor;

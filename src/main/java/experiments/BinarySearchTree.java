@@ -1,9 +1,9 @@
 package experiments;
 
-import cse332.datastructures.containers.Item;
-import cse332.interfaces.misc.ComparableDictionary;
-import cse332.interfaces.misc.SimpleIterator;
-import cse332.interfaces.worklists.WorkList;
+import process.datastructures.containers.Item;
+import process.interfaces.misc.ComparableDictionary;
+import process.interfaces.misc.SimpleIterator;
+import process.interfaces.worklists.WorkList;
 import datastructures.worklists.ArrayStack;
 
 import java.lang.reflect.Array;

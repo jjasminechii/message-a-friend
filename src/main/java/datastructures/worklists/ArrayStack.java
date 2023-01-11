@@ -1,7 +1,6 @@
 package datastructures.worklists;
 
-import cse332.exceptions.NotYetImplementedException;
-import cse332.interfaces.worklists.LIFOWorkList;
+import process.interfaces.worklists.LIFOWorkList;
 
 import java.util.NoSuchElementException;
 

@@ -1,10 +1,10 @@
 package p2.clients;
 
-import cse332.datastructures.trees.BinarySearchTree;
-import cse332.interfaces.misc.Dictionary;
-import cse332.types.AlphabeticString;
-import cse332.types.BString;
-import cse332.types.NGram;
+import process.datastructures.trees.BinarySearchTree;
+import process.interfaces.misc.Dictionary;
+import process.types.AlphabeticString;
+import process.types.BString;
+import process.types.NGram;
 import datastructures.dictionaries.AVLTree;
 import datastructures.dictionaries.ChainingHashTable;
 import datastructures.dictionaries.HashTrieMap;

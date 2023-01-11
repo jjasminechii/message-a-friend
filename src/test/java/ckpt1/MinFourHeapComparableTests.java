@@ -1,7 +1,7 @@
 package ckpt1;
 
-import cse332.interfaces.worklists.PriorityWorkList;
-import cse332.interfaces.worklists.WorkList;
+import process.interfaces.worklists.PriorityWorkList;
+import process.interfaces.worklists.WorkList;
 import datastructures.worklists.MinFourHeapComparable;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

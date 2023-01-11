@@ -1,13 +1,10 @@
 package p2.wordsuggestor;
 
-import cse332.datastructures.containers.Item;
-import cse332.exceptions.NotYetImplementedException;
-import cse332.interfaces.misc.Dictionary;
-import cse332.misc.LargeValueFirstItemComparator;
-import cse332.sorts.InsertionSort;
-import cse332.types.AlphabeticString;
-import cse332.types.NGram;
-import p2.sorts.HeapSort;
+import process.datastructures.containers.Item;
+import process.interfaces.misc.Dictionary;
+import process.misc.LargeValueFirstItemComparator;
+import process.types.AlphabeticString;
+import process.types.NGram;
 import p2.sorts.QuickSort;
 import p2.sorts.TopKSort;
 

@@ -1,7 +1,7 @@
 package experiments;
 
-import cse332.interfaces.worklists.FixedSizeFIFOWorkList;
-import cse332.types.BString;
+import process.interfaces.worklists.FixedSizeFIFOWorkList;
+import process.types.BString;
 
 public class AlphabeticString extends BString<Character> {
     public AlphabeticString(String s) {

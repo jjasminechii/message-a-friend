@@ -1,7 +1,7 @@
 package ckpt2;
 
-import cse332.datastructures.containers.Item;
-import cse332.interfaces.misc.Dictionary;
+import process.datastructures.containers.Item;
+import process.interfaces.misc.Dictionary;
 import datastructures.dictionaries.ChainingHashTable;
 import datastructures.dictionaries.MoveToFrontList;
 import org.junit.jupiter.api.Test;

@@ -1,10 +1,8 @@
 package datastructures.dictionaries;
 
-import cse332.datastructures.containers.Item;
-import cse332.exceptions.NotYetImplementedException;
-import cse332.interfaces.misc.DeletelessDictionary;
-import cse332.interfaces.misc.SimpleIterator;
-import datastructures.worklists.ListFIFOQueue;
+import process.datastructures.containers.Item;
+import process.interfaces.misc.DeletelessDictionary;
+import process.interfaces.misc.SimpleIterator;
 
 import java.util.Iterator;
 

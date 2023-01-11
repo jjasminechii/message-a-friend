@@ -1,6 +1,6 @@
 package ckpt2;
 
-import cse332.types.AlphabeticString;
+import process.types.AlphabeticString;
 import datastructures.dictionaries.HashTrieMap;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

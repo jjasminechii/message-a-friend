@@ -1,6 +1,6 @@
 package ckpt1;
 
-import cse332.datastructures.containers.Item;
+import process.datastructures.containers.Item;
 import datastructures.dictionaries.MoveToFrontList;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;

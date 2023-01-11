@@ -1,6 +1,6 @@
 package chat;
 
-import cse332.misc.WordReader;
+import process.misc.WordReader;
 import javafx.application.Platform;
 import javafx.embed.swing.JFXPanel;
 import javafx.scene.Scene;

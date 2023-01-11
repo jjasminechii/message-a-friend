@@ -1,6 +1,6 @@
 package experiments;
 
-import cse332.datastructures.trees.BinarySearchTree;
+import process.datastructures.trees.BinarySearchTree;
 
 /**
  * AVLTree must be a subclass of BinarySearchTree<E> and must use

@@ -1,6 +1,6 @@
 package datastructures.worklists;
 
-import cse332.interfaces.worklists.FIFOWorkList;
+import process.interfaces.worklists.FIFOWorkList;
 
 import java.util.NoSuchElementException;
 

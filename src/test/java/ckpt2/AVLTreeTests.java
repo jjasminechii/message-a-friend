@@ -1,8 +1,8 @@
 package ckpt2;
 
-import cse332.datastructures.containers.Item;
-import cse332.datastructures.trees.BinarySearchTree.BSTNode;
-import cse332.interfaces.misc.Dictionary;
+import process.datastructures.containers.Item;
+import process.datastructures.trees.BinarySearchTree.BSTNode;
+import process.interfaces.misc.Dictionary;
 import datastructures.dictionaries.AVLTree;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;

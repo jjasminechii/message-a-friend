@@ -1,6 +1,6 @@
 package experiments;
 
-import cse332.interfaces.worklists.FixedSizeFIFOWorkList;
+import process.interfaces.worklists.FixedSizeFIFOWorkList;
 
 import java.util.Arrays;
 import java.util.NoSuchElementException;

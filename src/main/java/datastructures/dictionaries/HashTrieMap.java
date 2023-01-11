@@ -1,9 +1,9 @@
 package datastructures.dictionaries;
 
-import cse332.datastructures.containers.Item;
-import cse332.interfaces.misc.SimpleIterator;
-import cse332.interfaces.trie.TrieMap;
-import cse332.types.BString;
+import process.datastructures.containers.Item;
+import process.interfaces.misc.SimpleIterator;
+import process.interfaces.trie.TrieMap;
+import process.types.BString;
 
 import java.util.*;
 import java.util.Map.Entry;
